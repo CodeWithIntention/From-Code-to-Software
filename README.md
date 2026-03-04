@@ -17,8 +17,8 @@ Each milestone is tagged so you can jump to the exact state of the code discusse
 Tag format:
 - `ch01-iter-01`
 - `ch01-iter-02`
-- `ch02-iter-01`
+- `ch01-iter-03`
 
 ## Companion site
 Once GitHub Pages is enabled, the site will be available here:
-- https://<your-username>.github.io/from-code-to-software/
+- https://codewithintention.github.io/From-Code-to-Software
